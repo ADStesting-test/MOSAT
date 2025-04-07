@@ -1,4 +1,6 @@
-# MOSAT: Multi-Objective Search-based ADS Testing
+# MOSAT: Finding Safety Violations of Autonomous Driving Systems using Multi-objective Genetic Algorithm
+
+paper link: https://dl.acm.org/doi/pdf/10.1145/3540250.3549100
 
 This project contains the implementation of MOSAT to test Apollo in SVL simulator. 
 MOSAT applies multi-objective genetic algorithm to generate virtual scenarios which can find safety violations of ADSs.
